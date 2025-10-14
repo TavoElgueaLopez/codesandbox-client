@@ -21,7 +21,7 @@
     "uuid": "^3.3.2"
   },
   "devDependencies": {
-    "rimraf": "^2.6.3"
+    "rimraf": "^4.3.1"
   },
   "peerDependencies": {
     "react": "^16.8.0"

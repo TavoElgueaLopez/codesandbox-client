@@ -40,7 +40,7 @@
     "async-es": "~2.6.1",
     "bfs-path": "~0.1.2",
     "bfs-process": "~0.1.6",
-    "body-parser": "~1.18.3",
+    "body-parser": "~1.20.6",
     "buffer": "~5.1.0",
     "detect-browsers": "~2.0.0",
     "dropbox": "~4.0.9",
@@ -71,7 +71,7 @@
     "typescript": "^5.0.0",
     "webpack": "~4.31.0",
     "webpack-cli": "~3.3.2",
-    "webpack-dev-server": "~3.3.1"
+    "webpack-dev-server": "~5.2.6"
   },
   "scripts": {
     "lint:old": "tslint -c src/tslint.json --project src/tsconfig.json",
